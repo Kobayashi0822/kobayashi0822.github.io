@@ -36,7 +36,7 @@ $(function(){
             prefectureNameType: "english",  //県名を英語表記
             onSelect:function (data) {
                 // location.href = areaLinks[data.area.name];
-                window.location.href =  data.name + '.html';
+                location.href =  data.name + '.html';
                 
             },
             onHover: function(data){
