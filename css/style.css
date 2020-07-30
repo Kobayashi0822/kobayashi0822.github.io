@@ -1,0 +1,240 @@
+
+body{
+    
+    font-family: sans-serif;  
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+#menubar > ul{
+    list-style: none;
+    padding-left: 0px;
+}
+
+#menubar > ul > li{
+    display: inline;
+    margin: 0 16px 0 0;
+    padding: 4px;
+    border: 1px solid #666666;
+    border-radius: 8px;
+    background: #fff;
+}
+
+.tokyo_box {
+    float: left;
+    width: 60%;
+    background-color: darkblue;
+    height: 180px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+.tokyo_box2{
+    float: left;
+    width: 60%;
+    background-color: darkslateblue;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.tokyo_box3{
+    clear: both;
+    height: 70px;
+    background-color: navy;
+    display: flex;
+    align-items: center;
+}
+
+p.doc1{
+    color: #ffffff;
+    font-size: 35px;
+    font-weight: bold;
+    /* text-align: center;
+    line-height: 2.5em; */    
+}
+
+p.doc2{
+    color: #000000;
+    font-size: 14px;
+    /* font-weight: bold; */
+    /* text-align: center;
+    line-height: 2.5em; */    
+}
+
+p.doc3{
+    clear: both;
+    color: #000000;
+    font-size: 20px;
+      
+}
+
+
+
+div.image {
+    float: left;
+    padding-right: 40px;
+    text-align: center;
+    
+    }
+
+
+
+    .chiba_box {
+        /* clear: both; */
+        float: left;
+        width: 60%;
+        background-color: darkslateblue;
+        height: 180px;
+        display: flex;
+      justify-content: center;
+      align-items: center;
+        
+    }
+
+.chiba_box2{
+        /* clear: both; */
+        float: left;
+        width: 60%;
+        background-color: cornflowerblue;
+        height: 100px;
+        display: flex;
+        align-items: center;
+    }
+
+    
+.chiba_box3{
+    /* margin-left: 4%; */
+    /* float: left; */
+    clear: both;
+    /* width: 40%; */
+    /* height: 280px; */
+    /* background-color: #666666; */
+}
+
+.chiba_box4{
+
+    clear: both;
+    height: 70px;
+    background-color: navy;
+    display: flex;
+    align-items: center;
+}
+
+.kanagawa_box {
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color: green;
+    height: 180px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+.kanagawa_box2{
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color:lightgreen;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.kanagawa_box3{
+
+    clear: both;
+    height: 70px;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center;
+}
+
+
+.kyoto_box {
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color: yellow;
+    height: 180px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+.kyoto_box2{
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color: lightgoldenrodyellow;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.kyoto_box3{
+
+    clear: both;
+    height: 70px;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+}
+
+.osaka_box {
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color: palevioletred;
+    height: 180px;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+    
+}
+
+.osaka_box2{
+    /* clear: both; */
+    float: left;
+    width: 60%;
+    background-color: peachpuff;
+    height: 100px;
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.osaka_box3{
+
+    clear: both;
+    height: 70px;
+    background-color: plum;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.kaigyo_box{
+    height: 70px;
+    clear: both;
+    background-color: #666666;
+}
+
+.box{
+    clear: both;
+}
+
