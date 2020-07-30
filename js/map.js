@@ -36,7 +36,7 @@ $(function(){
             prefectureNameType: "english",  //県名を英語表記
             onSelect:function (data) {
                 // location.href = areaLinks[data.area.name];
-                window.location.href = data.name + '.html';
+                window.location.href = 'https://kobayashi0822.github.io/' + data.name + '.html';
                 
             },
             onHover: function(data){
